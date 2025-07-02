@@ -1,0 +1,15 @@
+[project]
+name = "ComfyUI-PromptManager"
+description = "A simple and practical ComfyUI prompt manager — built to make your workflow easier."
+version = "0.0.0"
+license = {file = "LICENSE"}
+
+dependencies = ["Pillow>=9.0.0"]
+    
+[project.urls]
+Repository = "https://github.com/1038lab/ComfyUI-PromptManager"
+
+[tool.comfy]
+PublisherId = "ailab"
+DisplayName = "ComfyUI-PromptManager"
+Icon = ""
